@@ -78,14 +78,6 @@ git clone https://github.com/Programan1008/7dias_Desafios.git
 
 Abrir el archivo main.js correspondiente a cada desafío en el navegador y usar la consola de desarrollador (F12).
 
-🔹 Opcion 2: Ejecutar con Node.js (opcional)
-
-Si tienes Node.js instalado, puedes ejecutar los archivos JavaScript desde la terminal:
-
-node DesafioX/main.js
-
-(Sustituyendo X por el número del desafío).
-
 🤝 Contribución
 
 Si deseas mejorar los desafíos o agregar nuevas funcionalidades:
